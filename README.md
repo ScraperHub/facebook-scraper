@@ -13,7 +13,7 @@ Extract valuable data from Facebook at scale. Scrape user posts, profile informa
 ## 🚀 Features
 
 - **Scrape Facebook Posts** - Extract posts from any public Facebook page or profile
-- **Scrape Facebook Pages** - Get comprehensive page information including reviews and metrics
+- **Scrape Facebook Pages** - Get comprehensive page information, including reviews and metrics
 - **Scrape Facebook Groups** - Access public group content and member information
 - **Scrape Facebook Images** - Download images from profiles, pages, and posts
 - **Scrape Facebook Places** - Extract location-based business data
