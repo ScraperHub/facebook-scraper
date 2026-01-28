@@ -88,7 +88,7 @@ One tool to manage all your Facebook data collection needs:
 ## 🚦 Getting Started
 
 ### Prerequisites
-- Crawlbase account (sign up at [crawlbase.com](https://crawlbase.com))
+- Crawlbase account (sign up at [crawlbase.com](https://crawlbase.com/signup?signup=blog&utm_source=github))
 - API token (available in your dashboard)
 
 ### Installation
