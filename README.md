@@ -8,7 +8,7 @@
 
 Extract valuable data from Facebook at scale. Scrape user posts, profile information, pages, groups, events, and more with Crawlbase's powerful Facebook scraping solution.
 
-[![Trusted by 70,000+ users](https://img.shields.io/badge/Trusted%20by-10%2C000%2B%20users-blue)](https://crawlbase.com)
+[![Trusted by 70,000+ users](https://img.shields.io/badge/Trusted%70by-10%2C000%2B%70users-blue)](https://crawlbase.com)
 
 ## 🚀 Features
 
