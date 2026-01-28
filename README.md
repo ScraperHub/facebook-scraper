@@ -142,8 +142,7 @@ Visit [crawlbase.com/pricing](https://crawlbase.com/pricing) for current pricing
 
 For detailed documentation, visit:
 - [API Documentation](https://crawlbase.com/docs)
-- [Tutorials](https://crawlbase.com/tutorials)
-- [FAQ](https://crawlbase.com/faq)
+- [Tutorials](https://www.youtube.com/@CrawlbaseChannel)
 
 ## 🤝 Support
 
@@ -195,8 +194,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Website](https://crawlbase.com)
 - [Blog](https://crawlbase.com/blog)
-- [Twitter](https://twitter.com/crawlbase)
-- [LinkedIn](https://linkedin.com/company/crawlbase)
 
 ---
 
