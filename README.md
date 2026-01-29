@@ -30,7 +30,7 @@ Extract valuable data from Facebook at scale. Scrape user posts, profile informa
 - Oracle
 - Pinterest
 - WeWork
-- And 10,000+ other companies
+- And 70,000+ other companies
 
 ## 💡 Why Choose Crawlbase Facebook Scraper?
 
