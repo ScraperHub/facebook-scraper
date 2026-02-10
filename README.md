@@ -12,17 +12,11 @@ Extract valuable data from Facebook at scale. Scrape user posts, profile informa
 
 ## 🚀 Features
 
-- **Scrape Facebook Posts** - Extract posts from any public Facebook page or profile
-- **Scrape Facebook Pages** - Get comprehensive page information, including reviews and metrics
-- **Scrape Facebook Groups** - Access public group content and member information
-- **Scrape Facebook Images** - Download images from profiles, pages, and posts
-- **Scrape Facebook Places** - Extract location-based business data
-- **Scrape Facebook Events** - Gather event details, attendees, and related information
-- **Scraper for search from Posts** - Search and extract posts based on keywords
-- **No-code, No-skills required** - Easy to use interface for non-technical users
-- **Pro-2500+ Unique IPs** - Rotate through thousands of IP addresses
-- **Quick & 100% Compliant** - Stay within legal boundaries while scraping
-- **Scalable to all growth** - Handle projects of any size
+- **Scrape Facebook Pages** 
+- **Scrape Facebook Groups** 
+- **Scrape Facebook Events** 
+- **Scrape Facebook Profile** 
+- **Scrape Facebook hashtag** 
 
 ## 🏢 Trusted By
 
@@ -91,55 +85,6 @@ One tool to manage all your Facebook data collection needs:
 - Crawlbase account (sign up at [crawlbase.com](https://crawlbase.com/signup?signup=blog&utm_source=github))
 - API token (available in your dashboard)
 
-### Installation
-
-```bash
-npm install crawlbase
-```
-
-### Quick Start
-
-```javascript
-const { CrawlingAPI } = require('crawlbase');
-
-const api = new CrawlingAPI({ token: 'YOUR_TOKEN' });
-
-api.get('https://facebook.com/page-to-scrape', {
-  scraper: 'facebook-scraper'
-})
-.then(response => {
-  console.log(response.body);
-})
-.catch(error => {
-  console.error(error);
-});
-```
-
-## 📊 API Reference
-
-### Endpoints
-
-- `GET /scrape` - Scrape a Facebook URL
-- `POST /batch` - Batch scraping for multiple URLs
-- `GET /status` - Check scraping job status
-
-### Parameters
-
-| Parameter | Type | Description |
-|-----------|------|-------------|
-| `url` | string | Facebook URL to scrape |
-| `scraper` | string | Scraper type (facebook-scraper) |
-| `format` | string | Output format (json, csv, excel) |
-| `ajax_wait` | boolean | Wait for AJAX content to load |
-
-## 🔒 Compliance & Ethics
-
-We are committed to ethical web scraping:
-- Only scrape publicly available data
-- Respect robots.txt and terms of service
-- Implement rate limiting to avoid server overload
-- Provide options for data privacy compliance
-
 ## 📈 Pricing
 
 Visit [crawlbase.com/pricing](https://crawlbase.com/pricing) for current pricing plans.
@@ -183,17 +128,13 @@ Yes, we scrape data directly from Facebook's public pages in real-time.
 Sign up at crawlbase.com, get your API token, and start making requests.
 
 ### What are the common issues people face when scraping Facebook data?
-Common issues include getting blocked, CAPTCHAs, and rate limiting - all of which our service handles automatically.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Common issues include getting blocked, CAPTCHA, and rate limiting - all of which our service handles automatically.
 
 ## 🙏 Acknowledgments
 
 - Built with ❤️ by the Crawlbase team
 - Powered by enterprise-grade infrastructure
-- Serving 10,000+ satisfied customers worldwide
+- Serving 70,000+ satisfied customers worldwide
 
 ## 🔗 Links
 
